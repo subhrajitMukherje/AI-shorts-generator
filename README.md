@@ -72,7 +72,7 @@ Before setting up this project, you'll need accounts and API keys for:
 
 ### 1. Clone and Install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/subhrajitMukherje/AI-shorts-generator.git
 cd ai-video-generator
 npm install
 ```
